@@ -1,0 +1,2 @@
+class OvenOffError < StandardError
+end
